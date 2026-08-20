@@ -1,5 +1,7 @@
 # Seara Logistics - Candidate Recruitment Dashboard
 
+![Dashboard](Candidate_Recruitment_Dashboard.jpg)
+
 ## 1. Project Overview
 
 Seara Logistics - Candidate Recruitment Dashboard merupakan project analisis data yang dikembangkan sebagai bagian dari Seara Data Project. Seara Logistics merupakan perusahaan fiktif di industri Logistics & Supply Chain yang sedang mengembangkan tim data dan membuka posisi Data Analyst. Dalam proses rekrutmen, HR menghadapi tantangan karena kandidat memiliki latar belakang, keterampilan teknis, tujuan karier, dan lokasi yang beragam. Proses screening secara manual terhadap ratusan kandidat dapat memakan waktu dan berpotensi menghasilkan proses seleksi yang kurang konsisten.
